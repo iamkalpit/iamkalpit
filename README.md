@@ -18,9 +18,9 @@ I’m passionate about building user-centric applications and solving complex te
 - Enhanced data visualization features, boosting user engagement by 25%.
 
 ### 📈 GitHub Stats:
-![Kalpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kalpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamkalpit&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkalpit&layout=compact)
 
 ### 🌱 I’m currently learning:
 - Advanced Typescript
